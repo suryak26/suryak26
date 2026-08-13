@@ -1,125 +1,190 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🕷️+Hey%2C+I'm+Surya;Embedded+Systems+Engineer;IoT+Developer;Robotics+Enthusiast;Debugging+the+Multiverse+One+Microcontroller+at+a+Time" />
-
-<br>
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/spiderman-computer.gif" width="600">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=🕷️+Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;IoT+%7C+Robotics+%7C+RTOS+%7C+ROS;Building+Systems+One+Microcontroller+at+a+Time" />
 
 </div>
 
 ---
 
-# 🕸️ WHO AM I?
+## 👋 About Me
 
-```javascript
-const surya = {
-    education: "Pre-final-year Engineering Student",
+I'm a **Pre-Final Year student** at **Sri Venkateswara College of Engineering, Chennai**, majoring in **Electronics and Communication Engineering.**
 
-    specialization: [
-        "Embedded Systems",
-        "Industrial IoT",
-        "Robotics",
-        "RTOS"
-    ],
+My technical journey revolves around **Embedded Systems, Industrial IoT, Robotics, RTOS, and ROS.**
 
-    currentlyLearning: [
-        "ROS",
-        "Computer Architecture",
-        "Wireless Communication",
-        "Hardware-Software Co-Design"
-    ],
+I'm particularly interested in building intelligent systems that combine **hardware, communication protocols, cloud technologies, and real-world automation.**
 
-    exploring: [
-        "Digital Design",
-        "VLSI"
-    ],
+Currently, I'm working with **ESP32, STM32, GSM communication, FreeRTOS, SPI, RS485, Wi-Fi, and Firebase integration.**
 
-    lifeCycle: "Code → Debug → Break → Fix → Repeat"
-};
-```
+I'm also exploring **computer architecture, digital design, and VLSI**, although my primary focus remains on **embedded systems and robotics.**
+
+Like a certain friendly neighborhood superhero, I spend most of my time solving problems with whatever tools are available. Usually, those tools involve a debugger, a serial monitor, and at least one microcontroller that refuses to cooperate.
 
 ---
 
-# ⚡ MY TOOLBOX
+## ⚙️ Tech Stack
 
-| Category | Technologies |
-| --- | --- |
-| Languages | C, C++, Python, MATLAB, Verilog |
-| Embedded | ESP32, STM32, STM8 |
-| RTOS | FreeRTOS |
-| Robotics | ROS |
-| Communication | SPI, I2C, UART, RS485, GSM, Wi-Fi |
-| Cloud | Firebase |
-| Tools | Git, GitHub, VS Code, STM32CubeIDE, Arduino IDE |
+### Languages
 
----
+<p>
 
-# 🕷️ ACTIVE MISSIONS
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
 
-- 🛰️ Industrial IoT systems
+<img src="https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge"/>
 
-- 🤖 Robotics and autonomous systems
+</p>
 
-- 🔄 RTOS-based applications
+### Embedded Platforms
 
-- 📡 GSM and Wi-Fi communication
+<p>
 
-- 🔌 ESP32 ↔ STM32 communication
+<img src="https://skillicons.dev/icons?i=arduino"/>
 
-- ☁️ Sensor-to-cloud architectures
+<img src="https://img.shields.io/badge/ESP32-Developer-red?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/STM32-Developer-blue?style=for-the-badge"/>
 
-# 🕸️ POWER LEVELS
+<img src="https://img.shields.io/badge/STM8-Embedded-green?style=for-the-badge"/>
 
-```text
-Embedded Systems      ████████████████████ 100%
+<img src="https://img.shields.io/badge/FreeRTOS-RTOS-orange?style=for-the-badge"/>
 
-IoT                   ███████████████████ 95%
+<img src="https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge"/>
 
-Robotics              ██████████████████ 90%
+</p>
 
-RTOS                  █████████████████ 85%
+### Communication
 
-ROS                   ███████████████ 75%
+<p>
 
-Computer Architecture █████████████ 70%
+<img src="https://img.shields.io/badge/SPI-blue?style=flat-square"/>
 
-VLSI                  ██████ 30%
-```
+<img src="https://img.shields.io/badge/I2C-green?style=flat-square"/>
 
----
+<img src="https://img.shields.io/badge/UART-orange?style=flat-square"/>
 
-# 📊 GITHUB STATS
+<img src="https://img.shields.io/badge/RS485-lightgrey?style=flat-square"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/GSM-yellow?style=flat-square"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&hide_border=true"/>
+<img src="https://img.shields.io/badge/Wi--Fi-brightgreen?style=flat-square"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&hide_border=true"/>
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
 
 </p>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## 🚀 Featured Projects
+
+### 🔌 Industrial IoT Platform
+
+ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
+
+**Repository:**
+
+[OliveIoT](https://github.com/oliveiotoffice)
+
+---
+
+### 🤖 Robotics Projects
+
+- Wall-climbing robot
+- Autonomous robotics experiments
+- ROS exploration
+
+**Add your project links here.**
+
+---
+
+### 🌐 Websites & Dashboards
+
+- Safety dashboards
+- Web applications
+- Monitoring interfaces
+
+**Add your website links here.**
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=suryak26"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🕸️ ACTIVITY GRAPH
+## 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryak26"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryak26&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryak26&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+
+<a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=suryak26&style=for-the-badge"/>
 
 </p>
 
@@ -127,6 +192,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&lay
 
 <div align="center">
 
-### "With great processing power comes great responsibility."
+### 🕷️ "With great code comes great responsibility."
 
 </div>
