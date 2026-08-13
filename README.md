@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Replace banner.gif with your own animated Spider-Verse banner -->
-
-<img src="./assets/banner.gif" width="100%">
+<img src="./assets/banner.gif" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;IoT+%7C+Robotics+%7C+RTOS+%7C+ROS;Building+Systems+One+Microcontroller+at+a+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3500&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;Robotics+%7C+ROS+%7C+Industrial+IoT;Building+Systems+from+Sensors+to+Autonomous+Robots"/>
 
 </div>
 
@@ -14,31 +12,65 @@
 
 ## 👋 About Me
 
-I am a **Pre-Final Year student** at **Sri Venkateswara College of Engineering, Chennai**, majoring in **Electronics and Communication Engineering**.
+I'm a **Final-Year Electronics and Communication Engineering undergraduate** at **Sri Venkateswara College of Engineering, Chennai.**
 
-My technical journey is centered around **Embedded Systems, Industrial IoT, Robotics, RTOS, and ROS**. I enjoy building systems that connect the physical world with intelligent software, whether that means designing communication protocols, integrating cloud platforms, or developing robotic systems.
+My interests revolve around **Embedded Systems, Robotics, ROS, RTOS, Industrial IoT, and intelligent automation.**
 
-Currently, I am working with **ESP32, STM32, FreeRTOS, GSM communication, Wi-Fi, SPI, RS485, Firebase, and embedded communication architectures**.
+I enjoy building systems that connect hardware and software, whether it's a wall-climbing inspection robot, a ROS-based autonomous platform, an industrial communication network, or a cloud-connected embedded application.
 
-I am also exploring **computer architecture, digital design, and VLSI**, although my primary focus remains on embedded systems and robotics.
+My current focus includes:
 
-Like a certain friendly neighborhood superhero, I spend most of my time solving problems one bug at a time. Sometimes it's a software bug. Sometimes it's a hardware bug. Most of the time, it's both.
+- Embedded systems
+- Robotics
+- ROS and simulation
+- Industrial IoT
+- RTOS
+- Communication protocols
+- Hardware-software co-design
+
+Apart from engineering, I enjoy participating in hackathons, leading technical teams, building event platforms, and exploring the intersection of technology and real-world problem-solving.
+
+Like a certain friendly neighborhood superhero, I spend most of my time solving one bug at a time.
+
+Sometimes it's a software bug.
+
+Sometimes it's a hardware bug.
+
+Usually, it's both.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
 
 </p>
 
-### Embedded Systems & Robotics
+---
 
-<p align="left">
+### 🤖 Robotics & Simulation
+
+<p>
+
+<img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gazebo-4B4B4B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RViz-6A5ACD?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Embedded Systems
+
+<p>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
@@ -48,13 +80,15 @@ Like a certain friendly neighborhood superhero, I spend most of my time solving 
 
 <img src="https://img.shields.io/badge/FreeRTOS-0E5A8A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
 
 </p>
 
-### Communication Protocols
+---
 
-<p align="left">
+### 📡 Communication Protocols
+
+<p>
 
 <img src="https://img.shields.io/badge/SPI-0078D4?style=for-the-badge"/>
 
@@ -70,9 +104,29 @@ Like a certain friendly neighborhood superhero, I spend most of my time solving 
 
 </p>
 
-### Tools & Platforms
+---
 
-<p align="left">
+### 🔧 Circuit Design & CAD
+
+<p>
+
+<img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LTspice-A52A2A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CollabCAD-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TinkerCAD-FFBF00?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,arduino"/>
 
@@ -82,21 +136,37 @@ Like a certain friendly neighborhood superhero, I spend most of my time solving 
 
 ## 🚀 Featured Projects
 
-### 🕷️ Roctara | Wall-Climbing Inspection Robot
+### 🕷️ ROCTARA | Wall-Climbing Inspection Robot
 
-An inspection robot designed to climb vertical surfaces for industrial inspection and monitoring applications.
+- EDF-based suction mechanism
+
+- RF communication architecture
+
+- ESC-based motor control
+
+- ROS 2 simulation
+
+- Aerospace and structural inspection applications
 
 ---
 
 ### 🤖 PhantomX Hexapod Robot
 
-A six-legged robotic platform developed for studying locomotion, control systems, and autonomous movement.
+- Inverse kinematics
+
+- Autonomous navigation
+
+- SLAM
+
+- ROS 1
+
+- Gazebo and RViz simulation
 
 ---
 
 ### 🌐 Makeathon 7
 
-Official website developed for **Makeathon 7**.
+Official event website.
 
 🔗 https://make-a-thon-7.in/
 
@@ -104,9 +174,23 @@ Official website developed for **Makeathon 7**.
 
 ### 🚀 Upagraha 2026
 
-Official website developed for **Upagraha 2026**.
+Official event website.
 
 🔗 https://upagraha26.in/
+
+---
+
+## 🏆 Achievements
+
+🥇 Winner of IMPULSE'26
+
+🏆 Winner of ZEPHORIA'25 Project Expo
+
+🎯 Top 15 at Hackerz'26
+
+🚀 Top 100 among 3500+ teams at Sprintathon'25
+
+💯 Centum in Engineering Graphics
 
 ---
 
@@ -114,13 +198,9 @@ Official website developed for **Upagraha 2026**.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,7 +210,7 @@ Official website developed for **Upagraha 2026**.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryak26&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryak26&theme=tokyonight"/>
 
 </p>
 
@@ -138,7 +218,7 @@ Official website developed for **Upagraha 2026**.
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:kksurya2023@gmail.com">
 
@@ -146,7 +226,7 @@ Official website developed for **Upagraha 2026**.
 
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/suryak23/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -160,7 +240,7 @@ Official website developed for **Upagraha 2026**.
 
 <a href="./assets/Surya_Resume.pdf">
 
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge"/>
 
 </a>
 
@@ -168,7 +248,7 @@ Official website developed for **Upagraha 2026**.
 
 ## 👀 Profile Views
 
-<p align="left">
+<p>
 
 <img src="https://komarev.com/ghpvc/?username=suryak26&style=for-the-badge"/>
 
@@ -178,6 +258,6 @@ Official website developed for **Upagraha 2026**.
 
 <div align="center">
 
-### 🕸️ "Building intelligent systems from sensors and microcontrollers to robots and cloud-connected applications."
+### 🕸️ "Building intelligent systems from sensors and microcontrollers to autonomous robots."
 
 </div>
