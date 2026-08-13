@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=🕷️+Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;IoT+%7C+Robotics+%7C+RTOS+%7C+ROS;Building+Systems+One+Microcontroller+at+a+Time" />
+<!-- Replace banner.gif with your own animated Spider-Verse banner -->
+
+<img src="./assets/banner.gif" width="100%">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;IoT+%7C+Robotics+%7C+RTOS+%7C+ROS;Building+Systems+One+Microcontroller+at+a+Time" />
 
 </div>
 
@@ -8,73 +14,67 @@
 
 ## 👋 About Me
 
-I'm a **Pre-Final Year student** at **Sri Venkateswara College of Engineering, Chennai**, majoring in **Electronics and Communication Engineering.**
+I am a **Pre-Final Year student** at **Sri Venkateswara College of Engineering, Chennai**, majoring in **Electronics and Communication Engineering**.
 
-My technical journey revolves around **Embedded Systems, Industrial IoT, Robotics, RTOS, and ROS.**
+My technical journey is centered around **Embedded Systems, Industrial IoT, Robotics, RTOS, and ROS**. I enjoy building systems that connect the physical world with intelligent software, whether that means designing communication protocols, integrating cloud platforms, or developing robotic systems.
 
-I'm particularly interested in building intelligent systems that combine **hardware, communication protocols, cloud technologies, and real-world automation.**
+Currently, I am working with **ESP32, STM32, FreeRTOS, GSM communication, Wi-Fi, SPI, RS485, Firebase, and embedded communication architectures**.
 
-Currently, I'm working with **ESP32, STM32, GSM communication, FreeRTOS, SPI, RS485, Wi-Fi, and Firebase integration.**
+I am also exploring **computer architecture, digital design, and VLSI**, although my primary focus remains on embedded systems and robotics.
 
-I'm also exploring **computer architecture, digital design, and VLSI**, although my primary focus remains on **embedded systems and robotics.**
-
-Like a certain friendly neighborhood superhero, I spend most of my time solving problems with whatever tools are available. Usually, those tools involve a debugger, a serial monitor, and at least one microcontroller that refuses to cooperate.
+Like a certain friendly neighborhood superhero, I spend most of my time solving problems one bug at a time. Sometimes it's a software bug. Sometimes it's a hardware bug. Most of the time, it's both.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
+### Programming Languages
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
 
-<img src="https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge"/>
+</p>
+
+### Embedded Systems & Robotics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STM8-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FreeRTOS-0E5A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
 
 </p>
 
-### Embedded Platforms
+### Communication Protocols
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://img.shields.io/badge/SPI-0078D4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ESP32-Developer-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I2C-2E8B57?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STM32-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-FF8C00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STM8-Embedded-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RS485-808080?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FreeRTOS-RTOS-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSM-FFD700?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge"/>
-
-</p>
-
-### Communication
-
-<p>
-
-<img src="https://img.shields.io/badge/SPI-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/I2C-green?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/UART-orange?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/RS485-lightgrey?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/GSM-yellow?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Wi--Fi-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/WiFi-32CD32?style=for-the-badge"/>
 
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,arduino"/>
 
 </p>
 
@@ -82,33 +82,31 @@ Like a certain friendly neighborhood superhero, I spend most of my time solving 
 
 ## 🚀 Featured Projects
 
-### 🔌 Industrial IoT Platform
+### 🕷️ Roctara | Wall-Climbing Inspection Robot
 
-ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
-
-**Repository:**
-
-[OliveIoT](https://github.com/oliveiotoffice)
+An inspection robot designed to climb vertical surfaces for industrial inspection and monitoring applications.
 
 ---
 
-### 🤖 Robotics Projects
+### 🤖 PhantomX Hexapod Robot
 
-- Wall-climbing robot
-- Autonomous robotics experiments
-- ROS exploration
-
-**Add your project links here.**
+A six-legged robotic platform developed for studying locomotion, control systems, and autonomous movement.
 
 ---
 
-### 🌐 Websites & Dashboards
+### 🌐 Makeathon 7
 
-- Safety dashboards
-- Web applications
-- Monitoring interfaces
+Official website developed for **Makeathon 7**.
 
-**Add your website links here.**
+🔗 https://make-a-thon-7.in/
+
+---
+
+### 🚀 Upagraha 2026
+
+Official website developed for **Upagraha 2026**.
+
+🔗 https://upagraha26.in/
 
 ---
 
@@ -116,9 +114,13 @@ ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=transparent"/>
 
 </p>
 
@@ -128,13 +130,7 @@ ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryak26&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryak26&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryak26&theme=github_dark"/>
 
 </p>
 
@@ -142,23 +138,17 @@ ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+
+<a href="mailto:kksurya2023@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
 
 <a href="YOUR_LINKEDIN_URL">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
@@ -168,21 +158,17 @@ ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
 
 ## 📄 Resume
 
-<p align="center">
+<a href="./assets/Surya_Resume.pdf">
 
-<a href="YOUR_RESUME_LINK">
-
-<img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
 
 </a>
-
-</p>
 
 ---
 
 ## 👀 Profile Views
 
-<p align="center">
+<p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=suryak26&style=for-the-badge"/>
 
@@ -192,6 +178,6 @@ ESP32 + STM32 + GSM + Wi-Fi + Firebase integration for industrial monitoring.
 
 <div align="center">
 
-### 🕷️ "With great code comes great responsibility."
+### 🕸️ "Building intelligent systems from sensors and microcontrollers to robots and cloud-connected applications."
 
 </div>
