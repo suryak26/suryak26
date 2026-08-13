@@ -1,144 +1,125 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Surya+%F0%9F%91%8B;Embedded+Systems+Engineer;IoT+Developer;Robotics+Enthusiast;RTOS+Learner;Building+Systems+from+Sensors+to+Cloud+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🕷️+Hey%2C+I'm+Surya;Embedded+Systems+Engineer;IoT+Developer;Robotics+Enthusiast;Debugging+the+Multiverse+One+Microcontroller+at+a+Time" />
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2w0eG5mZmh6eTB5aXlqY2t3eW1zaWZ1eW1xbnJwdW44NjA5cnR6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/spiderman-computer.gif" width="600">
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🕸️ WHO AM I?
 
-```yaml
-Name: Surya
-Role: Pre-final-year Engineering Student
+```javascript
+const surya = {
+    education: "Pre-final-year Engineering Student",
 
-Interests:
-  - Embedded Systems
-  - Robotics
-  - Industrial IoT
-  - RTOS
-  - ROS
-  - Computer Architecture
+    specialization: [
+        "Embedded Systems",
+        "Industrial IoT",
+        "Robotics",
+        "RTOS"
+    ],
 
-Currently Learning:
-  - FreeRTOS
-  - ROS
-  - Wireless Communication
-  - Hardware-Software Co-Design
+    currentlyLearning: [
+        "ROS",
+        "Computer Architecture",
+        "Wireless Communication",
+        "Hardware-Software Co-Design"
+    ],
 
-Exploring:
-  - Digital Design
-  - VLSI
+    exploring: [
+        "Digital Design",
+        "VLSI"
+    ],
+
+    lifeCycle: "Code → Debug → Break → Fix → Repeat"
+};
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ MY TOOLBOX
 
-### Languages
+| Category | Technologies |
+| --- | --- |
+| Languages | C, C++, Python, MATLAB, Verilog |
+| Embedded | ESP32, STM32, STM8 |
+| RTOS | FreeRTOS |
+| Robotics | ROS |
+| Communication | SPI, I2C, UART, RS485, GSM, Wi-Fi |
+| Cloud | Firebase |
+| Tools | Git, GitHub, VS Code, STM32CubeIDE, Arduino IDE |
+
+---
+
+# 🕷️ ACTIVE MISSIONS
+
+- 🛰️ Industrial IoT systems
+
+- 🤖 Robotics and autonomous systems
+
+- 🔄 RTOS-based applications
+
+- 📡 GSM and Wi-Fi communication
+
+- 🔌 ESP32 ↔ STM32 communication
+
+- ☁️ Sensor-to-cloud architectures
+
+---
+
+# 🕸️ POWER LEVELS
+
+```text
+Embedded Systems      ████████████████████ 100%
+
+IoT                   ███████████████████ 95%
+
+Robotics              ██████████████████ 90%
+
+RTOS                  █████████████████ 85%
+
+ROS                   ███████████████ 75%
+
+Computer Architecture █████████████ 70%
+
+VLSI                  ██████ 30%
+```
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,git,github,vscode"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-### Microcontrollers
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ESP32-Developer-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STM32-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STM8-Embedded-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FreeRTOS-RTOS-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔌 Communication Protocols
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SPI-Protocol-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/I2C-Protocol-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/UART-Protocol-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RS485-Industrial-lightgrey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GSM-Communication-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WiFi-Networking-brightgreen?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 Current Projects
-
-- Industrial IoT systems using GSM and Wi-Fi
-- ESP32 ↔ STM32 communication using SPI
-- RTOS-based embedded applications
-- Firebase-integrated sensor monitoring
-- Robotics and autonomous systems
-- Sensor-to-cloud architectures
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=suryak26"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryak26"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🕸️ ACTIVITY GRAPH
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryak26"/>
 
 </p>
 
@@ -146,6 +127,6 @@ Exploring:
 
 <div align="center">
 
-### ⚙️ Building systems from sensors and microcontrollers to robots and cloud-connected applications.
+### "With great processing power comes great responsibility."
 
 </div>
