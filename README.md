@@ -43,6 +43,9 @@ Designed a serial-parallel lookup-table generator using a shared, time-multiplex
 
 *Results refer to the project's reported architecture and baseline evaluation.*
 
+
+[View Repository](https://github.com/suryak26/SILG)
+
 ### 2. Roctara — Wall-Climbing Inspection Robot
 
 **Technologies:** Embedded Systems, RF Communication, ROS, Gazebo, OpenCV, YOLO26
