@@ -1,263 +1,150 @@
-<div align="center">
 
-<img src="./assets/banner.gif" width="100%"/>
+# Surya K
 
-<br>
+**Electronics & Communication Engineering | Embedded Systems | Robotics**
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3500&pause=1000&color=E11D48&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Surya;Aspiring+Embedded+Systems+Engineer;Robotics+%7C+ROS+%7C+Industrial+IoT;Building+Systems+from+Sensors+to+Autonomous+Robots"/>
+Chennai, India · Expected Graduation: 2027
 
-</div>
+I work at the intersection of embedded hardware, firmware, and intelligent systems. My experience spans microcontroller programming, real-time control, industrial communication, autonomous robotics, and hardware-aware digital design.
 
----
+My current technical interests include embedded systems, RTOS, Industrial IoT, ROS 2, computer vision, and hardware-software co-design.
 
-## 👋 About Me
-
-I'm a **Final-Year Electronics and Communication Engineering undergraduate** at **Sri Venkateswara College of Engineering, Chennai.**
-
-My interests revolve around **Embedded Systems, Robotics, ROS, RTOS, Industrial IoT, and intelligent automation.**
-
-I enjoy building systems that connect hardware and software, whether it's a wall-climbing inspection robot, a ROS-based autonomous platform, an industrial communication network, or a cloud-connected embedded application.
-
-My current focus includes:
-
-- Embedded systems
-- Robotics
-- ROS and simulation
-- Industrial IoT
-- RTOS
-- Communication protocols
-- Hardware-software co-design
-
-Apart from engineering, I enjoy participating in hackathons, leading technical teams, building event platforms, and exploring the intersection of technology and real-world problem-solving.
-
-Like a certain friendly neighborhood superhero, I spend most of my time solving one bug at a time.
-
-Sometimes it's a software bug.
-
-Sometimes it's a hardware bug.
-
-Usually, it's both.
+[Email](mailto:kksurya2023@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suryak23/) · [GitHub](https://github.com/suryak26)
 
 ---
 
-## ⚙️ Tech Stack
+## Technical Skills
 
-### 💻 Programming Languages
+**Programming:** C, C++, Python, MATLAB
 
-<p>
+**Embedded Systems:** STM32, ESP32, Raspberry Pi, FreeRTOS, Zephyr RTOS
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
+**Communication & Networking:** UART, SPI, I²C, RS485, Modbus, LoRa, Ethernet, TCP/IP, GSM, Wi-Fi
 
-</p>
+**Robotics & Computer Vision:** ROS, ROS 2, Gazebo, RViz, OpenCV, YOLO26, Inverse Kinematics, SLAM
 
----
+**Digital Design:** Verilog, RTL Verification, Icarus Verilog, Python-based Golden Models
 
-### 🤖 Robotics & Simulation
-
-<p>
-
-<img src="https://img.shields.io/badge/ROS1-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gazebo-4B4B4B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RViz-6A5ACD?style=for-the-badge"/>
-
-</p>
+**Development Tools:** Linux, Bash, Git, GitHub, STM32CubeIDE, STM32CubeMX, KiCad, Proteus, LTspice, Firebase
 
 ---
 
-### ⚙️ Embedded Systems
+## Featured Projects
 
-<p>
+### 1. ASPLUT — Near-Memory LUT Generator for PIM LLM Inference
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+**Technologies:** Verilog, Icarus Verilog, Python, RTL Verification
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+Designed a serial-parallel lookup-table generator using a shared, time-multiplexed multiply-accumulate architecture for processing-in-memory inference.
 
-<img src="https://img.shields.io/badge/STM8-6DB33F?style=for-the-badge"/>
+- Exhaustively validated 28,672 generated LUT entries across 256 signed activation-pair combinations against an independent Python reference model.
+- Achieved 37.7% lower mapped-netlist area and 51.8% lower total power compared with an identically constrained baseline.
+- Improved derived maximum frequency by 45.2% in the reported evaluation.
 
-<img src="https://img.shields.io/badge/FreeRTOS-0E5A8A?style=for-the-badge"/>
+*Results refer to the project's reported architecture and baseline evaluation.*
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
+### 2. Roctara — Wall-Climbing Inspection Robot
 
-</p>
+**Technologies:** Embedded Systems, RF Communication, ROS, Gazebo, OpenCV, YOLO26
 
----
+Developed a modular wall-climbing inspection platform integrating embedded motor control, an EDF-based suction mechanism, wireless operation, and computer vision.
 
-### 📡 Communication Protocols
+- Redesigned the suction mechanism to improve adhesion consistency.
+- Integrated RF-based control and high-torque geared motors.
+- Developed a crack-segmentation workflow using YOLO26n-seg and OpenCV-based image analysis to estimate crack dimensions.
 
-<p>
+[View Repository](https://github.com/suryak26/Roctara)
 
-<img src="https://img.shields.io/badge/SPI-0078D4?style=for-the-badge"/>
+### 3. Hexapod — Autonomous Multi-Legged Robot
 
-<img src="https://img.shields.io/badge/I2C-2E8B57?style=for-the-badge"/>
+**Technologies:** STM32, Zephyr RTOS, Raspberry Pi, ROS 2, Gazebo
 
-<img src="https://img.shields.io/badge/UART-FF8C00?style=for-the-badge"/>
+Worked on a two-level robotic control architecture combining real-time microcontroller control with higher-level robotic software.
 
-<img src="https://img.shields.io/badge/RS485-808080?style=for-the-badge"/>
+- Implemented closed-form inverse kinematics for an 18-servo, six-legged platform.
+- Developed tripod, ripple, and wave gait generation with 50 Hz motion updates.
+- Integrated a custom PCB for power distribution, servo control, and sensor interfacing.
+- Used ROS 2 and Gazebo for simulation and system validation.
 
-<img src="https://img.shields.io/badge/GSM-FFD700?style=for-the-badge"/>
+[View Repository](https://github.com/suryak26/Hexapod)
 
-<img src="https://img.shields.io/badge/WiFi-32CD32?style=for-the-badge"/>
+### 4. Motor Health Monitoring System
 
-</p>
+**Technologies:** ESP32, STM32, Sensors, UART, Firebase
 
----
+Developed an embedded motor-monitoring workflow using current, temperature, and vibration inputs.
 
-### 🔧 Circuit Design & CAD
+- Implemented threshold-based classification of operating conditions into good, warning, and fault states.
+- Integrated sensor acquisition, firmware-level fault logic, and local LED and buzzer alerts.
+- Connected monitoring data to Firebase for remote access and further development toward predictive maintenance.
 
-<p>
+[View Repository](https://github.com/suryak26/Motor-Health-Monitoring-System)
 
-<img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge"/>
+### 5. Raspberry Pi Edge IoT Platform
 
-<img src="https://img.shields.io/badge/LTspice-A52A2A?style=for-the-badge"/>
+**Technologies:** Raspberry Pi Zero 2 W, Python, Linux, Flask, I²C, SPI, FFmpeg
 
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+Configured a Linux-based edge platform for sensor acquisition, local visualization, and media processing.
 
-<img src="https://img.shields.io/badge/CollabCAD-008080?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TinkerCAD-FFBF00?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,arduino"/>
-
-</p>
+- Integrated environmental, motion, and gas sensing peripherals.
+- Debugged I²C communication and validated sensor readings using Python-based hardware tests.
+- Integrated an SPI TFT display and a local Flask application for visualization and interaction.
 
 ---
 
-## 🚀 Featured Projects
+## Industry Experience
 
-### 🕷️ ROCTARA | Wall-Climbing Inspection Robot
+### OliveIoT — Embedded Systems and IoT Intern
+*July 2026 – Present | Chennai, India*
 
-- EDF-based suction mechanism
+- Worked with STM32 and ESP32 platforms, peripheral interfaces, and FreeRTOS.
+- Integrated and tested industrial communication technologies including RS485, Modbus, LoRa, Ethernet, and GSM.
+- Supported sensor and actuator integration, hardware bring-up, and embedded communication debugging.
+- Developed Python-based test utilities for embedded and edge-IoT systems.
 
-- RF communication architecture
+### Syrma SGS Technology Ltd — Operations Intern
+*December 2025 – January 2026 | Chennai, India*
 
-- ESC-based motor control
-
-- ROS 2 simulation
-
-- Aerospace and structural inspection applications
-
----
-
-### 🤖 PhantomX Hexapod Robot
-
-- Inverse kinematics
-
-- Autonomous navigation
-
-- SLAM
-
-- ROS 1
-
-- Gazebo and RViz simulation
+- Gained exposure to SMT, THT, PCB assembly, inspection, testing, and electronics manufacturing workflows.
+- Observed SPI, pick-and-place, reflow soldering, AOI, wave soldering, and ICT/FCT processes.
+- Learned about RFID manufacturing, antenna production, RF validation, ESD safety, and quality assurance.
 
 ---
 
-### 🌐 Makeathon 7
+## Selected Achievements
 
-Official event website.
-
-🔗 https://make-a-thon-7.in/
-
----
-
-### 🚀 Upagraha 2026
-
-Official event website.
-
-🔗 https://upagraha26.in/
+- **Top 15** — Hackerz'26, SeedStart, among 530+ registrations.
+- **Top 100** — Sprinthathon'25, among 3,500+ teams.
+- **Winner** — IMPULSE'26 Project Presentation, Chennai Institute of Technology.
+- **First Place** — Upagraha'25 Blind Chase competition.
+- **Winner** — ZEPHORIA'25 Project Expo.
+- **Centum** — Engineering Graphics, AISSCE 2023.
 
 ---
 
-## 🏆 Achievements
+## Education
 
-🥇 Winner of IMPULSE'26
+**Sri Venkateswara College of Engineering, Chennai**
 
-🏆 Winner of ZEPHORIA'25 Project Expo
-
-🎯 Top 15 at Hackerz'26
-
-🚀 Top 100 among 3500+ teams at Sprintathon'25
-
-💯 Centum in Engineering Graphics
+B.E. Electronics and Communication Engineering · 2023–2027  
+CGPA: 8.06/10
 
 ---
 
-## 📊 GitHub Statistics
+## Certifications
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryak26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryak26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Introduction to Industry 4.0 and Industrial Internet of Things — NPTEL
+- Electronic Systems Design: Hands-on Circuits and PCB Design with CAD Software — NPTEL
+- MATLAB and Simulink Onramp — MathWorks
+- Electronics Fundamentals — Etalvis
 
 ---
 
-## 📈 GitHub Analytics
+## Contact
 
-<p align="center">
+I am interested in opportunities involving embedded firmware, real-time systems, robotics, Industrial IoT, and hardware-software integration.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryak26&theme=tokyonight"/>
+- **Email:** [kksurya2023@gmail.com](mailto:kksurya2023@gmail.com)
+- **LinkedIn:** [suryak23](https://www.linkedin.com/in/suryak23/)
+- **GitHub:** [suryak26](https://github.com/suryak26)
 
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-
-<a href="mailto:kksurya2023@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/suryak23/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-## 📄 Resume
-
-<a href="./assets/Surya_Resume.pdf">
-
-<img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge"/>
-
-</a>
-
----
-
-## 👀 Profile Views
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=suryak26&style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 🕸️ "Building intelligent systems from sensors and microcontrollers to autonomous robots."
-
-</div>
