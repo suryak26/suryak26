@@ -1,257 +1,306 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,55:123047,100:0891B2&section=header&text=SURYA%20K&fontSize=58&fontColor=E6FCFF&fontAlignY=38&desc=ENGINEERING%20SYSTEMS%20%2F%20FROM%20SENSORS%20TO%20SILICON&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Surya K — Engineering Systems"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=850&lines=Embedded+Systems+%2F+Real-Time+Firmware;Robotics+%2F+Autonomy+%2F+ROS+2;RTL+Design+%2F+Verification+%2F+PIM;Hardware+%E2%86%94+Software+%E2%86%94+The+Physical+World" alt="Areas of engineering focus"/>
-</p>
+# SURYA K.
 
-<p align="center">
-  <a href="mailto:kksurya2023@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suryak23/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/suryak26">
-    <img src="https://img.shields.io/badge/GITHUB-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/CHENNAI%2C%20INDIA-0B1220?style=flat-square&logo=googlemaps&logoColor=67E8F9" alt="Location"/>
-</p>
+### ENGINEERING COMMAND CENTER
+
+`EMBEDDED SYSTEMS` / `ROBOTICS` / `DIGITAL DESIGN`
+
+**From physical signals to firmware, autonomous systems, and silicon-level optimization.**
+
+[GitHub](https://github.com/suryak26) · [LinkedIn](https://www.linkedin.com/in/suryak23/) · [Email](mailto:kksurya2023@gmail.com)
+
+Chennai, India · Electronics & Communication Engineering · Class of 2027
+
+</div>
 
 ---
 
-## `00 / THE ENGINEERING MINDSET`
+## `00 // SYSTEM STATUS`
 
-I'm Surya, an Electronics and Communication Engineering undergraduate at Sri Venkateswara College of Engineering, Chennai.
+| MODULE | ENGINEERING FOCUS |
+|:--|:--|
+| `SYS-01` | Microcontrollers, firmware, and real-time systems |
+| `SYS-02` | Industrial communication and connected devices |
+| `SYS-03` | Robotic control, kinematics, and simulation |
+| `SYS-04` | RTL architecture, verification, and hardware optimization |
 
-I work across embedded firmware, robotic systems, Industrial IoT, and digital hardware architecture. I'm interested in the point where software meets physical constraints: timing, power, communication, motion, and verification.
+**Operating principle:** Understand the constraints. Design the system. Verify the behavior. Measure the result.
 
-My approach is simple:
+I'm an ECE undergraduate interested in how hardware and software work together under real-world constraints. My projects range from sensor-driven embedded devices and robotic control to RTL architectures for processing-in-memory inference.
 
-**Understand the system. Build the interface. Verify the result.**
-
-Currently working on embedded systems and Industrial IoT at **OliveIoT**.
+Currently, I'm working in embedded systems and Industrial IoT at **OliveIoT**, while exploring hardware-aware architecture through ASPLUT.
 
 ---
 
-## `01 / SYSTEM MAP`
-
-The engineering space I work in spans several layers, from physical signals to firmware, communication, robotics, and hardware architecture.
+## `01 // SYSTEM TOPOLOGY`
 
 ```mermaid
-%%{init: {"theme":"base","themeVariables":{"background":"#0B1220","primaryColor":"#102A43","primaryTextColor":"#E6FCFF","primaryBorderColor":"#22D3EE","lineColor":"#22D3EE","secondaryColor":"#123047","tertiaryColor":"#0F172A","fontFamily":"monospace"}}}%%
-flowchart LR
-    A["01 / PHYSICAL<br/>Sensors + Actuators"]
-    B["02 / EMBEDDED<br/>STM32 + ESP32 + RTOS"]
-    C["03 / CONNECTIVITY<br/>UART + SPI + I2C + RS485"]
-    D["04 / EDGE & ROBOTICS<br/>Linux + ROS 2 + Vision"]
-    E["05 / DIGITAL DESIGN<br/>Verilog + LUT-based PIM"]
-    F["06 / VERIFICATION<br/>Golden Models + Netlists"]
+flowchart TD
+    A["PHYSICAL WORLD<br/>Sensors / Actuators"]
+    B["EMBEDDED LAYER<br/>STM32 / ESP32 / RTOS"]
+    C["COMMUNICATION<br/>UART / SPI / I2C / RS485"]
+    D["EDGE & ROBOTICS<br/>Linux / ROS 2 / Vision"]
+    E["DIGITAL ARCHITECTURE<br/>Verilog / LUT / PIM"]
+    F["VERIFICATION<br/>Reference Models / RTL / Netlists"]
 
     A --> B
     B <--> C
     B <--> D
     E --> F
 
-    classDef cyan fill:#102A43,stroke:#22D3EE,color:#E6FCFF,stroke-width:1.5px;
-    class A,B,C,D,E,F cyan;
+    classDef system fill:#102A43,stroke:#22D3EE,color:#E6FCFF
+    class A,B,C,D,E,F system
 ```
 
-<p align="center">
-  <sub>Different disciplines. One engineering mindset.</sub>
-</p>
+<details>
+<summary><strong>How I approach a technical problem</strong></summary>
+
+I like projects where the pieces must work together rather than operate as isolated demonstrations.
+
+- **Interfaces:** Define how components communicate and what each component owns.
+- **Constraints:** Account for timing, power, memory, communication reliability, and hardware limitations.
+- **Verification:** Compare expected behavior against measured or simulated results.
+- **Integration:** Test the complete workflow, not just the individual modules.
+
+The exact process depends on the project. A robotic controller and an RTL design have different constraints, but both benefit from explicit interfaces and evidence-based verification.
+
+</details>
 
 ---
 
-## `02 / SELECTED BUILDS`
+## `02 // FEATURED BUILDS`
 
-These projects represent different sides of my work: hardware-aware architecture, real-time robotics, inspection systems, and connected embedded devices.
+Four projects. Four different engineering challenges.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/suryak26/SILG/main/ASP_LUT/netlist/asplut_netlist.png" width="100%" alt="ASPLUT mapped RTL netlist"/>
-      </p>
-      <h3>01 / ASPLUT</h3>
-      <p><b>Near-Memory LUT Generator</b></p>
-      <p>Exploring a serial-parallel architecture for lookup-table-centric Processing-in-Memory inference.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Verilog-0B1220?style=flat-square&logo=verilog&logoColor=67E8F9" alt="Verilog"/>
-        <img src="https://img.shields.io/badge/RTL-0B1220?style=flat-square&logoColor=67E8F9" alt="RTL"/>
-        <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=67E8F9" alt="Python"/>
-      </p>
-      <ul>
-        <li>28,672 LUT entries validated against an independent Python reference model, with zero mismatches.</li>
-        <li>37.7% lower mapped-netlist area.</li>
-        <li>51.8% lower reported total power.</li>
-        <li>45.2% improvement in derived maximum frequency.</li>
-      </ul>
-      <p><a href="https://github.com/suryak26/SILG/tree/main/ASP_LUT"><b>Explore the RTL and verification work →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/suryak26/Hexapod/main/Hexapod%20Robot%20-%203463845/images/Whole_Thing_With_Remote.jpg" width="100%" alt="Hexapod robot prototype with its controller"/>
-      </p>
-      <h3>02 / HEXAPOD</h3>
-      <p><b>Real-Time Multi-Legged Robotics</b></p>
-      <p>A two-level control architecture combining deterministic low-level motion control with higher-level robotics software.</p>
-      <p>
-        <img src="https://img.shields.io/badge/STM32-0B1220?style=flat-square&logo=stmicroelectronics&logoColor=67E8F9" alt="STM32"/>
-        <img src="https://img.shields.io/badge/Zephyr_RTOS-0B1220?style=flat-square&logo=zephyrproject&logoColor=67E8F9" alt="Zephyr RTOS"/>
-        <img src="https://img.shields.io/badge/ROS_2-0B1220?style=flat-square&logo=ros&logoColor=67E8F9" alt="ROS 2"/>
-      </p>
-      <ul>
-        <li>18-servo, six-legged robotic platform.</li>
-        <li>Closed-form inverse kinematics.</li>
-        <li>Tripod, ripple, and wave gait generation with 50 Hz motion updates.</li>
-        <li>Custom PCB integration and ROS 2 / Gazebo simulation.</li>
-      </ul>
-      <p><a href="https://github.com/suryak26/Hexapod"><b>Explore the robotics stack →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/suryak26/Roctara/main/IMG-20250930-WA0035.jpg" width="100%" alt="Roctara wall-climbing robot project"/>
-      </p>
-      <h3>03 / ROCTARA</h3>
-      <p><b>Wall-Climbing Inspection Robot</b></p>
-      <p>A modular inspection platform designed around improved suction, wireless control, and computer vision.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Embedded_C-0B1220?style=flat-square&logo=c&logoColor=67E8F9" alt="Embedded C"/>
-        <img src="https://img.shields.io/badge/ROS-0B1220?style=flat-square&logo=ros&logoColor=67E8F9" alt="ROS"/>
-        <img src="https://img.shields.io/badge/OpenCV-0B1220?style=flat-square&logo=opencv&logoColor=67E8F9" alt="OpenCV"/>
-      </p>
-      <ul>
-        <li>EDF-based suction replacing the earlier propeller-based design.</li>
-        <li>RF-based wireless control and geared motor actuation.</li>
-        <li>YOLO26n-seg and OpenCV-based crack measurement workflow.</li>
-        <li>ROS and Gazebo work toward autonomous inspection.</li>
-      </ul>
-      <p><a href="https://github.com/suryak26/Roctara"><b>Explore the inspection platform →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/suryak26/Motor-Health-Monitoring-System/main/docs/Architecture_Diagram.png" width="100%" alt="Motor health monitoring system architecture"/>
-      </p>
-      <h3>04 / MOTOR HEALTH</h3>
-      <p><b>Embedded Condition Monitoring</b></p>
-      <p>A connected monitoring workflow that turns electrical and mechanical measurements into actionable operating states.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ESP32-0B1220?style=flat-square&logo=espressif&logoColor=67E8F9" alt="ESP32"/>
-        <img src="https://img.shields.io/badge/UART-0B1220?style=flat-square&logoColor=67E8F9" alt="UART"/>
-        <img src="https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=67E8F9" alt="Firebase"/>
-      </p>
-      <ul>
-        <li>Current, temperature, and vibration sensing.</li>
-        <li>Threshold-based good, warning, and fault classification.</li>
-        <li>Local LED and buzzer alerts.</li>
-        <li>Firebase integration for remote data access.</li>
-      </ul>
-      <p><a href="https://github.com/suryak26/Motor-Health-Monitoring-System"><b>Explore the monitoring system →</b></a></p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><strong>01 / ASPLUT — Hardware architecture for PIM inference</strong></summary>
 
-<sub>ASPLUT results are from the reported comparison against an identically constrained baseline. The frequency figure is derived from the evaluation; these figures should not be interpreted as measurements from fabricated silicon.</sub>
+**Domain:** RTL design · Processing-in-Memory · Architecture optimization
 
----
+**Repository:** [suryak26/SILG — ASPLUT implementation](https://github.com/suryak26/SILG/tree/main/ASP_LUT)
 
-## `03 / THE WORKBENCH`
+ASPLUT explores a serial-parallel lookup-table generator for LUT-centric Processing-in-Memory LLM inference. The architecture replaces spatially replicated arithmetic with a shared, time-multiplexed multiply-accumulate unit to materialize 112 half-table entries.
 
-<table>
-  <tr>
-    <td width="25%"><b>FIRMWARE</b></td>
-    <td>C · C++ · STM32 · ESP32 · FreeRTOS · Zephyr · GPIO · Peripheral Drivers</td>
-  </tr>
-  <tr>
-    <td><b>COMMUNICATION</b></td>
-    <td>UART · SPI · I²C · RS485 · Modbus · LoRa · Ethernet · TCP/IP</td>
-  </tr>
-  <tr>
-    <td><b>ROBOTICS</b></td>
-    <td>ROS · ROS 2 · Gazebo · RViz · Inverse Kinematics · SLAM</td>
-  </tr>
-  <tr>
-    <td><b>DIGITAL DESIGN</b></td>
-    <td>Verilog · Icarus Verilog · RTL Verification · Python Golden Models</td>
-  </tr>
-  <tr>
-    <td><b>EDGE & VISION</b></td>
-    <td>Linux · Raspberry Pi · Python · OpenCV · YOLO26 · Flask</td>
-  </tr>
-  <tr>
-    <td><b>HARDWARE TOOLS</b></td>
-    <td>KiCad · Proteus · LTspice · STM32CubeIDE · STM32CubeMX</td>
-  </tr>
-</table>
+**Reported verification and evaluation**
+
+| Metric | Result |
+|:--|--:|
+| Generated LUT entries validated | 28,672 |
+| Signed activation-pair combinations | 256 |
+| Verification mismatches | 0 |
+| Mapped-netlist area reduction | 37.7% |
+| Total power reduction | 51.8% |
+| Switching power reduction | 68.3% |
+| Improvement in derived maximum frequency | 45.2% |
+
+The verification flow uses Verilog, Icarus Verilog, and an independent Python reference model.
+
+*The performance figures are reported comparisons against an identically constrained baseline. They represent the evaluated architecture, not measurements from fabricated silicon.*
+
+</details>
+
+<details>
+<summary><strong>02 / HEXAPOD — Real-time control for a multi-legged robot</strong></summary>
+
+**Domain:** Embedded control · Robotics · RTOS · Simulation
+
+**Repository:** [suryak26/Hexapod](https://github.com/suryak26/Hexapod)
+
+A six-legged robotic platform designed around two control layers: an STM32 and Zephyr RTOS for real-time motion control, with a Raspberry Pi and ROS 2 for higher-level robotics functionality.
+
+**System highlights**
+
+- Closed-form inverse kinematics for an 18-servo platform.
+- Tripod, ripple, and wave gait generation.
+- Deterministic 50 Hz motion updates.
+- Custom PCB for power distribution, servo control, and sensor interfacing.
+- ROS 2 and Gazebo simulation for system validation.
+
+The key design idea is separating time-critical actuation from higher-level processing so that control responsibilities remain explicit.
+
+</details>
+
+<details>
+<summary><strong>03 / ROCTARA — Wall-climbing inspection robotics</strong></summary>
+
+**Domain:** Embedded systems · Wireless control · Computer vision
+
+**Repository:** [suryak26/Roctara](https://github.com/suryak26/Roctara)
+
+Roctara is a redesigned wall-climbing inspection platform developed from an earlier prototype. Its design combines modular hardware, EDF-based suction, RF control, and a computer-vision workflow for crack analysis.
+
+**Engineering highlights**
+
+- Replaced the earlier propeller-based suction approach with an EDF-based mechanism.
+- Integrated RF-based wireless control and high-torque geared motors.
+- Used ROS and Gazebo for simulation work.
+- Developed a crack-segmentation workflow using YOLO26n-seg and OpenCV-based analysis to estimate crack dimensions.
+
+Autonomous inspection remains a development direction rather than a claim of fully completed autonomy.
+
+</details>
+
+<details>
+<summary><strong>04 / MOTOR HEALTH — Embedded condition monitoring</strong></summary>
+
+**Domain:** Sensor acquisition · Fault classification · Industrial IoT
+
+**Repository:** [suryak26/Motor-Health-Monitoring-System](https://github.com/suryak26/Motor-Health-Monitoring-System)
+
+An embedded monitoring workflow that combines current, temperature, and vibration inputs to classify operating conditions.
+
+**Engineering highlights**
+
+- Threshold-based good, warning, and fault states.
+- Sensor acquisition and fault logic across ESP32 and STM32 firmware implementations.
+- Local LED and buzzer status indications.
+- Firebase integration for remote data access.
+
+The project connects device-level monitoring with the broader goal of condition-based maintenance.
+
+</details>
+
+<details>
+<summary><strong>05 / EDGE IoT — Linux-based sensor platform</strong></summary>
+
+**Domain:** Edge computing · Linux · Peripheral integration
+
+Configured a Raspberry Pi Zero 2 W as a local edge-IoT platform.
+
+- Integrated environmental, motion, and gas sensors.
+- Debugged I²C communication using bus scans, register inspection, and Python-based tests.
+- Integrated an SPI TFT display.
+- Built a local Flask application and embedded media-processing workflow using FFmpeg.
+
+This project focuses on making sensors, peripheral communication, and user-facing software work together on a small Linux device.
+
+</details>
 
 ---
 
-## `04 / BEYOND THE BENCH`
+## `03 // THE TOOLCHAIN`
 
-Engineering isn't only firmware and circuit boards. I've also contributed to collaborative, public-facing event platforms.
+<details>
+<summary><strong>Firmware & real-time systems</strong></summary>
 
-- [Make-A-Thon 7.0](https://make-a-thon-7.in/) — event platform development.
-- [UPAGRAHA '26](https://upagraha26.in/) — website development and frontend refinement.
-- [Makeathon source repository](https://github.com/suryak26/Makeathon).
+`C` · `C++` · `STM32` · `ESP32` · `FreeRTOS` · `Zephyr RTOS` · `GPIO` · `Raspberry Pi`
 
-I also gained electronics manufacturing exposure at **Syrma SGS Technology Ltd**, including PCB assembly, inspection, testing, RFID manufacturing, and quality processes.
+</details>
+
+<details>
+<summary><strong>Communication & networking</strong></summary>
+
+`UART` · `SPI` · `I2C` · `RS485` · `Modbus` · `LoRa` · `Ethernet` · `TCP/IP` · `GSM` · `Wi-Fi`
+
+</details>
+
+<details>
+<summary><strong>Robotics & perception</strong></summary>
+
+`ROS` · `ROS 2` · `Gazebo` · `RViz` · `Inverse Kinematics` · `SLAM` · `OpenCV` · `YOLO26`
+
+</details>
+
+<details>
+<summary><strong>Digital design & verification</strong></summary>
+
+`Verilog` · `Icarus Verilog` · `RTL Verification` · `Python Golden Models` · `Netlist Evaluation`
+
+</details>
+
+<details>
+<summary><strong>Development & hardware tools</strong></summary>
+
+`Linux` · `Bash` · `Git` · `GitHub` · `STM32CubeIDE` · `STM32CubeMX` · `KiCad` · `Proteus` · `LTspice` · `Firebase` · `Flask`
+
+</details>
 
 ---
 
-## `05 / SIGNALS OF PROGRESS`
+## `04 // FIELD EXPERIENCE`
 
-| Milestone | Result |
-|---|---|
+<details>
+<summary><strong>OliveIoT / Embedded Systems and IoT Intern</strong></summary>
+
+**July 2026 – Present · Chennai, India**
+
+Working with STM32 and ESP32 platforms, RTOS-based firmware, peripheral integration, and industrial communication interfaces.
+
+Technical exposure includes RS485, Modbus, LoRa, Ethernet, GSM, hardware bring-up, device testing, and Python-based test utilities.
+
+</details>
+
+<details>
+<summary><strong>Syrma SGS Technology Ltd / Operations Intern</strong></summary>
+
+**December 2025 – January 2026 · Chennai, India**
+
+Gained exposure to electronics manufacturing, including SMT, THT, PCB assembly, soldering, inspection, ICT/FCT, RFID manufacturing, RF validation, and quality processes.
+
+</details>
+
+---
+
+## `05 // VERIFIED MILESTONES`
+
+| EVENT | OUTCOME |
+|:--|:--|
 | Hackerz'26 — SeedStart | Top 15 among 530+ registrations |
 | Sprinthathon'25 | Top 100 among 3,500+ teams |
-| IMPULSE'26 | Winner, Project Presentation |
-| Upagraha'25 | First Place, Blind Chase |
-| ZEPHORIA'25 | Winner, Project Expo |
+| IMPULSE'26 | Winner — Project Presentation |
+| Upagraha'25 | First Place — Blind Chase |
+| ZEPHORIA'25 | Winner — Project Expo |
 
 **Education:** B.E. Electronics and Communication Engineering, Sri Venkateswara College of Engineering · 2023–2027 · CGPA 8.06/10
 
 ---
 
-## `06 / ENGINEERING PRINCIPLES`
+## `06 // ENGINEERING LOG`
 
-```text
-01  Build across boundaries.
-    Hardware, firmware, networks, and applications must work together.
+<details>
+<summary><strong>What I care about when building systems</strong></summary>
 
-02  Verify with evidence.
-    Simulations, reference models, measurements, and repeatable tests matter.
+| QUESTION | WHY IT MATTERS |
+|:--|:--|
+| What are the timing constraints? | Real-time behavior depends on more than functional correctness. |
+| Where does communication fail? | Interfaces often expose problems hidden by isolated component tests. |
+| How is the result verified? | Reproducible tests are more useful than unsupported performance claims. |
+| What is the actual bottleneck? | Optimization should target measured constraints, not assumptions. |
+| What is complete today? | Clear implementation status keeps project documentation credible. |
 
-03  Be precise about progress.
-    Completed, under development, and planned are different states.
+</details>
 
-04  Optimize with context.
-    Area, power, timing, reliability, and complexity are trade-offs.
-```
+<details>
+<summary><strong>Outside the hardware stack</strong></summary>
+
+I have also contributed to public-facing event platforms:
+
+- [Make-A-Thon 7.0](https://make-a-thon-7.in/)
+- [UPAGRAHA '26](https://upagraha26.in/)
+- [Makeathon source repository](https://github.com/suryak26/Makeathon)
+
+These projects gave me experience working with shared codebases, frontend components, event information, and iterative changes within a multi-developer team.
+
+</details>
 
 ---
 
-## `07 / ESTABLISH CONTACT`
+## `07 // CONTACT`
 
 Interested in embedded firmware, real-time systems, robotics, Industrial IoT, and hardware-software integration.
 
-<p align="center">
-  <a href="mailto:kksurya2023@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Contact by email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suryak23/">
-    <img src="https://img.shields.io/badge/CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+| CHANNEL | LINK |
+|:--|:--|
+| Email | [kksurya2023@gmail.com](mailto:kksurya2023@gmail.com) |
+| LinkedIn | [linkedin.com/in/suryak23](https://www.linkedin.com/in/suryak23/) |
+| GitHub | [github.com/suryak26](https://github.com/suryak26) |
 
-<p align="center">
-  <sub>Designed around a simple idea: make the system work, then make the result measurable.</sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0891B2,100:0B1220" width="100%" alt=""/>
-</p>
+`END OF TRANSMISSION`
+
+*Build deliberately. Verify rigorously. Measure honestly.*
+
+</div>
