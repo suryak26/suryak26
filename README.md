@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:123047,100:0891B2&text=SURYA%20K&fontSize=58&fontColor=E6FCFF&fontAlignY=38&desc=ENGINEERING%20SYSTEMS%20%2F%20ROBOTICS%20%2F%20DIGITAL%20DESIGN&descAlignY=60&descSize=13&animation=fadeIn" width="100%" alt="Surya K — Engineering Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:123047,100:0891B2&text=Surya%20K&fontSize=58&fontColor=E6FCFF&fontAlignY=38&desc=ENGINEERING%20SYSTEMS%20%2F%20ROBOTICS%20%2F%20DIGITAL%20DESIGN&descAlignY=60&descSize=13&animation=fadeIn" width="100%" alt="Surya K — Engineering Systems"/>
 
 <a href="https://github.com/suryak26">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=780&lines=Embedded+Systems+%7C+Industrial+IoT;Robotics+%7C+ROS+2+%7C+Autonomous+Systems;RTL+Design+%7C+Hardware+Optimization;Building+at+the+intersection+of+hardware+and+software" alt="Animated engineering introduction"/>
